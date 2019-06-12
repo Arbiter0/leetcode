@@ -20,7 +20,7 @@ nums2 = [3, 4]
 ```
 ### 题解（Java）：
 
-```
+```java
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         
@@ -58,3 +58,4 @@ class Solution {
     }
 }
 ```
+
